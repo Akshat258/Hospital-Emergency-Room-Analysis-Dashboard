@@ -1,5 +1,7 @@
 HOSPITAL ER Operational Efficiency & Patient Satisfaction Dashboard
+
 📌 Project Overview
+
 Developed a comprehensive end-to-end Power BI solution to analyze 9,000+ patient records. The project focuses on optimizing Emergency Room (ER) operations by identifying bottlenecks in wait times, tracking departmental performance, and understanding patient demographics to improve overall satisfaction.
 
 🚀 Key Features
